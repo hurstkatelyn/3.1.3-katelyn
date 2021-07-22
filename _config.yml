@@ -1,17 +1,17 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Katelyn M. Hurst"
+email: hurstka2@msu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio website!
 baseurl: "/" 
 url: "/" 
 twitter_username: mlhacks
-github_username:  mlh-fellowship
-linkedin_username: wrussell1999
+github_username:  hurstkatelyn
+linkedin_username: katelyn-hurst
 
 sass:
   sass_dir: _sass
 
-icon: /assets/img/icon.jpg
+icon: /assets/img/face-photo.jpg
 
 # your google analytics tag goes here
 # how to get your analytics tag?
